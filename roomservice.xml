@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="open-droid/android_device_xiaomi_land" path="device/xiaomi/land" remote="github"/>
+	<project name="open-droid/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github"/>
+	<project name="open-droid/proprietary_vendor_xiaomi_land" path="vendor/xiaomi/land" remote="github"/>
+</manifest>
